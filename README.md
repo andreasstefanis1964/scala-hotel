@@ -1,0 +1,2 @@
+# scala-hotel
+GitHub Pages

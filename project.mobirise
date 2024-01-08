@@ -906,7 +906,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/scala-17.webp",
+                "image": "@PROJECT_PATH@/assets/images/51069835-1024x768.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -925,7 +925,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK ONLINE</a> "
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/scala-17-760x420.jpg",
+                "image": "@PROJECT_PATH@/assets/images/182650252-1024x681.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,

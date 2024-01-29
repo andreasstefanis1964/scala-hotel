@@ -906,7 +906,26 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/51069835-1024x768.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-stg7178a-2000x1331.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "Gemütliche Apartments in Wien",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "A home celebrate the free spirit of the Cyclades.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK ONLINE</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/-stg7190-2000x1331.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -925,8 +944,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK ONLINE</a> "
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/182650252-1024x681.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-217-2000x1500.jpg",
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
@@ -937,12 +956,30 @@
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "Scala Apartments in naxosWien",
+                "textTitle": "Gemütliche Apartments in Wien",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "A home celebrate the free spirit of the Cyclades.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" data-app-placeholder=\"Type Text\" href=\"https://ibe.channex.io/online-booking-scala-hotel-naxos\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK ONLINE</a> ",
-                "overlayColor": "#6c7a88"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK ONLINE</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-230-2000x1500.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "Gemütliche Apartments in Wien",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "A home celebrate the free spirit of the Cyclades.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK ONLINE</a> "
               }
             ]
           }
